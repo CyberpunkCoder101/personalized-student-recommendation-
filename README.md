@@ -27,40 +27,8 @@ The **Quiz Performance Analysis** project is designed to evaluate a student's qu
 
 ### Prerequisites
 
-- Python 3.8 or later
+- Python 3.8 or later Download Imported libraries
 
-### Dependencies
-
-Install required packages using the following command:
-
-```bash
-pip install -r requirements.txt
-```
-
-### Project Structure
-
-```
-quiz-performance-analysis/
-├── main.py                    # Main entry point
-├── modules/                   # Modularized scripts
-│   ├── __init__.py
-│   ├── data_loader.py         # Handles JSON data loading
-│   ├── performance_analyzer.py # Analyzes performance, generates insights
-│   ├── report_generator.py    # Generates text-based reports
-│   ├── visualizer.py          # Handles performance visualization
-├── data/                      # Input data files
-│   ├── current_quiz_data.json
-│   ├── historical_quiz_data.json
-├── outputs/                   # Generated reports and visualizations
-│   ├── performance_report_<quiz_id>.txt
-│   ├── performance_plot_<quiz_id>.png
-├── screenshots/               # Screenshots of outputs
-│   ├── insights_example.png
-│   ├── visualization_example.png
-├── demo_video.mp4             # Demonstration video
-├── requirements.txt           # Dependencies
-├── README.md                  # Documentation
-```
 
 ## Usage
 
