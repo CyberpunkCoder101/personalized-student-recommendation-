@@ -1,0 +1,3 @@
+Performance Insights: {'topic_performance': {}, 'strengths': [], 'weaknesses': [], 'weak_areas': 'Your average accuracy is 0.72. Keep up the consistency!', 'trend': '⚡ Needs a little boost to get back on track.', 'common_mistakes': {}}
+Recommendations: ['Your average accuracy is 0.72. Keep up the consistency!']
+Student Persona: Needs Focus
